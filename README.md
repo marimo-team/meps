@@ -8,3 +8,4 @@ Marimo Enhancement Proposals
 | [0003](mep-0003.md) | UI Elements |
 | [0004](mep-0004.md) | App Configuration |
 | [0005](mep-0005.md) | State |
+| [0006](mep-0006.md) | Multiplayer |
